@@ -12,4 +12,5 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
+    <context:annotation-config/>
 </beans>
